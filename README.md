@@ -22,5 +22,5 @@
 ![Alcugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcugan&show_icons=true&theme=radical)
 
 ### Connect with Me
-- [LinkedIn](www.linkedin.com/in/álvaro-radu-rumayor-5b1949329)
+- [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-radu-rumayor-5b1949329)
 - [Notion portfolio](https://paint-sushi-a41.notion.site/CV-lvaro-Radu-Rumayor-13a59f084eb58071ae5ef60e4f89c602)
