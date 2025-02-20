@@ -14,7 +14,8 @@
 - **Tools & Platforms:** Git, VSC, Linux.
 
 ### Projects
-- [Project 1](https://github.com/Alcugan/NameForm): Brief description of project 1.
+- [Java Swing](https://github.com/Alcugan/NameForm): This is a starting Java aplication.
+- [Website](https://github.com/Alcugan/explora-el-mundo): This is a website made in a few days, composed of HTML, CSS, JS and PHP.
 
 
 ### GitHub Stats
